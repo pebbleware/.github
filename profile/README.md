@@ -1,8 +1,8 @@
 # Pebbleware
-Building powerful & extensible open-source software.
+Building efficient & extensible open-source software.
 
 ## Open Source as it should be.
-There are countless reasons to choose open-source over propriety. It can have enchanced security, simpler license management and a better community.
+There are countless reasons to choose open-source over propriety. Just some of the are that it can have enchanced security, simpler license management and a better community.
 
 ## Coding Manifesto
 At Pebbleware, we break down our code into three main aspects:
