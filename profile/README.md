@@ -1,5 +1,5 @@
 # Pebbleware
-Building efficient & extensible open-source software.
+Building effective & extensible open-source software.
 
 ## Open Source as it should be.
 There are countless reasons to choose open-source over propriety. Just some of the are enchanced security, simpler license management and a better community.
